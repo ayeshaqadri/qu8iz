@@ -1,0 +1,32 @@
+*{
+    background: pink;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+#questionBox p{
+    box-shadow: 50%;
+    /* text-align: center; */
+}
+#questionBox input{
+
+}
+button{
+    border: none;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    border-radius: 10%;
+
+}
+button:hover{
+    background: #ffa7d08a;
+    border: #870b458a;
+
+}
+h1{
+    /* text-align: center; */
+
+}
+.main{
+
+}
